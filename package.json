@@ -1,0 +1,22 @@
+{
+  "name": "shiki-docs",
+  "version": "0.0.1",
+  "author": "shiki",
+  "description": "docs",
+  "keywords": [
+    "docs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamishima-kaede/shiki-docs"
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
