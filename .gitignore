@@ -107,3 +107,4 @@ site/dev.js
 _site/
 package-lock.json
 testDemo/
+.DS_Store
