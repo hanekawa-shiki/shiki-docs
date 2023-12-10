@@ -8,3 +8,12 @@ vue2
 
 vue3
 
+vue-router3
+
+vue-router4
+
+vuex
+
+pinia
+
+vite

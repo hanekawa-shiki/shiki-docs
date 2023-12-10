@@ -1,0 +1,1 @@
+import{_ as n,y as t,x as s,W as e}from"./plugin-vue_export-helper.0b0d78d5.js";const h='{"title":"\u9879\u76EE\u7ED3\u6784","description":"","frontmatter":{},"relativePath":"zh/guide/structure.md","lastUpdated":1702210160145}',a={},o=e("",7),p=[o];function c(r,i,l,m,u,_){return s(),t("div",null,p)}var g=n(a,[["render",c]]);export{h as __pageData,g as default};

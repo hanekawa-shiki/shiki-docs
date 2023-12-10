@@ -1,0 +1,1 @@
+import{_ as t,y as e,x as s,W as n}from"./plugin-vue_export-helper.0b0d78d5.js";const _='{"title":"Application Structure","description":"","frontmatter":{},"relativePath":"guide/structure.md","lastUpdated":1702210160124}',o={},a=n("",7),r=[a];function c(i,p,l,u,d,m){return s(),e("div",null,r)}var g=t(o,[["render",c]]);export{_ as __pageData,g as default};
