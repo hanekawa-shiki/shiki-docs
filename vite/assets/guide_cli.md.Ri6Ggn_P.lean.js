@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as d,R as o}from"./chunks/framework.HYN-VFUH.js";const u=JSON.parse('{"title":"命令行界面","description":"","frontmatter":{},"headers":[],"relativePath":"guide/cli.md","filePath":"guide/cli.md"}'),a={name:"guide/cli.md"},c=o("",28),r=[c];function s(l,i,n,p,h,g){return e(),d("div",null,r)}const v=t(a,[["render",s]]);export{u as __pageData,v as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,R as t}from"./chunks/framework.HYN-VFUH.js";const f=JSON.parse('{"title":"Releases","description":"","frontmatter":{},"headers":[],"relativePath":"releases.md","filePath":"releases.md"}'),s={name:"releases.md"},i=t("",23),n=[i];function o(l,h,d,p,c,u){return a(),r("div",null,n)}const g=e(s,[["render",o]]);export{f as __pageData,g as default};

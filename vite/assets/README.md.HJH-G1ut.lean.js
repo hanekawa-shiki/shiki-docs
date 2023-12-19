@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,R as n}from"./chunks/framework.HYN-VFUH.js";const b=JSON.parse('{"title":"Vite 中文文档","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),t={name:"README.md"},l=n("",20),o=[l];function p(r,i,c,h,g,d){return a(),e("div",null,o)}const m=s(t,[["render",p]]);export{b as __pageData,m as default};

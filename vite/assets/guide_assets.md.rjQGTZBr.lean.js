@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,R as n}from"./chunks/framework.HYN-VFUH.js";const u=JSON.parse('{"title":"静态资源处理","description":"","frontmatter":{},"headers":[],"relativePath":"guide/assets.md","filePath":"guide/assets.md"}'),o={name:"guide/assets.md"},p=n("",36),e=[p];function r(t,c,i,y,d,E){return a(),l("div",null,e)}const m=s(o,[["render",r]]);export{u as __pageData,m as default};
